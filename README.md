@@ -1,9 +1,3 @@
-# Paint.js
-
-A web based painting app built using html canvas. You can draw, paint, color, erase, load from storage, save to storage and download your painting 
-
-Tech Stack: HTML, CSS, JAVASCRIPT, CANVAS, ES6
-
 # Paint.js 🎨
 
 A web-based painting app built using HTML canvas. You can draw, paint, color, erase, load from storage, save to storage, and download your painting. 

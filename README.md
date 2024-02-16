@@ -48,4 +48,4 @@ Special thanks to the developers of the HTML, CSS, JavaScript, and Canvas techno
 
 ## Contact 📧
 
-For any questions or inquiries, please reach out to us at paintjs@example.com.
+For any questions or inquiries, please reach out to us at [Email 📬](mailto:enpvivek@gmail.com)
